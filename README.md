@@ -1,2 +1,2 @@
-# Medi-al-data-analysis
+# Medcal-data-analysis
 Курс математические методы биоинформатики. Анализ данных.
